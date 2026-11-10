@@ -1,0 +1,15 @@
+1. .\.venv314\Scripts\Activate.ps1
+
+2. cd D:\7TH SEMESTER\GPT - 4 LAB\CODE\Ex1
+
+3. python -m pip install pandas numpy requests scikit-learn sentence-transformers transformers
+
+4. python -c "import pandas, numpy, requests, sklearn, sentence_transformers, transformers; print('All libraries installed!')"
+
+5. ollama --version
+
+6. ollama list
+
+7. ollama pull qwen2.5:0.5b
+
+8. python main.py

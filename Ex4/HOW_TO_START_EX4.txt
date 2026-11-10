@@ -1,0 +1,19 @@
+1. .\.venv314\Scripts\Activate.ps1
+
+2. cd D:\7TH SEMESTER\GPT - 4 LAB\CODE\Ex2
+
+3. python -m pip install gradio pandas numpy requests faiss-cpu
+
+4. python -c "import gradio, pandas, numpy, requests, faiss; print('All libraries installed!')"
+
+5. ollama --version
+
+6. ollama list
+
+7. ollama pull nomic-embed-text
+
+8. ollama pull qwen2.5:0.5b
+
+9. python main.py
+
+10. http://127.0.0.1:7860  ->  Open in browser

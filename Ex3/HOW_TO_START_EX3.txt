@@ -1,0 +1,15 @@
+1. .\.venv314\Scripts\Activate.ps1
+
+2. cd D:\7TH SEMESTER\GPT - 4 LAB\CODE\Ex3
+
+3. python -m pip install requests
+
+4. python -c "import requests; print('All libraries installed successfully!')"
+
+5. ollama --version
+
+6. ollama list
+
+7. ollama pull qwen2.5:0.5b
+
+8. python main.py

@@ -1,0 +1,17 @@
+1. .\.venv314\Scripts\Activate.ps1
+
+2. cd D:\7TH SEMESTER\GPT - 4 LAB\CODE\Ex2
+
+3. python -m pip install gradio requests
+
+4. python -c "import gradio, requests; print('All libraries installed successfully!')"
+
+5. ollama --version
+
+6. ollama list
+
+7. ollama pull qwen2.5:0.5b
+
+8. python main.py
+
+9. http://127.0.0.1:7860  ->  Open in browser

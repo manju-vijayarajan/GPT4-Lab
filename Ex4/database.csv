@@ -1,0 +1,12 @@
+domain,title,author_or_director,genre,summary,keywords
+Books,Introduction to Algorithms,Thomas H. Cormen,Computer Science,Comprehensive textbook covering algorithms data structures and complexity analysis,"algorithms, data structures, problem solving"
+Books,Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,Computer Science,Covers artificial intelligence fundamentals including search reasoning learning and natural language processing,"AI, artificial intelligence, machine learning"
+Books,Operating System Concepts,Abraham Silberschatz,Computer Science,Explains operating system concepts such as processes memory and file systems,"operating systems, processes, memory"
+Books,Discrete Mathematics and Its Applications,Kenneth Rosen,Mathematics,Introduces logic set theory combinatorics and graph theory with computer science applications,"mathematics, logic, graph theory"
+Books,Linear Algebra and Its Applications,Gilbert Strang,Mathematics,Covers vector spaces matrices and linear transformations for problem solving,"linear algebra, matrices, vectors"
+Books,Hamlet,William Shakespeare,Literature,A Shakespearean tragedy exploring revenge morality and human actions,"Shakespeare, tragedy, literature"
+Movies,The Social Network,David Fincher,Drama,Film about the creation of Facebook and the relationships and conflicts surrounding its development,"technology, startup, social media"
+Movies,The Imitation Game,Morten Tyldum,Historical Drama,Film about Alan Turing and his work on breaking the Enigma code during World War II,"computer science, cryptography, history"
+Movies,Interstellar,Christopher Nolan,Science Fiction,Science fiction film exploring space travel relativity and humanity's survival,"space, science, physics"
+Movies,The Matrix,The Wachowskis,Science Fiction,Science fiction film about a simulated reality and a rebellion against machines,"AI, technology, simulation"
+Movies,Hidden Figures,Theodore Melfi,Historical Drama,Film about mathematicians and engineers who contributed to the space program,"mathematics, engineering, NASA"
